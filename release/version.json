@@ -1,9 +1,9 @@
 {
-  "version": "2.0.4",
-  "exe": "https://raw.githubusercontent.com/rossofrost98-lgtm/syswell/main/release/Syswell.exe?v=2.0.4",
-  "sha256": "47a35f5328bfddc4b39ed61d95d446c8903854cdd0811c38716968bc9d50f461",
-  "size": 1201152,
+  "version": "2.0.5",
+  "exe": "https://raw.githubusercontent.com/rossofrost98-lgtm/syswell/main/release/Syswell.exe?v=2.0.5",
+  "sha256": "3837263afcf3d0322081a8139f98e1739a408cbee70df7708c5efc117caf24fa",
+  "size": 1240576,
   "url": "https://github.com/rossofrost98-lgtm/syswell",
-  "notes": "Журнал в виде паутины, тёмные окна-вопросы, кнопки языка RU/KZ/EN, настройки в боковом меню, исправлены автообновления.",
-  "sig": "SgxYn596j4pRAm73pgbtXgJxy2qfvCGobfRs37RebIKy25G/FK74LASqJYPgyhNpGxm3Lzj+zJoWEo1Gol/jmD/qhdvyuJUlfyRxaEEOvLITQdU16hBWldRCC7bAw9+kGBoR/48SA6efMc/jZj1cuKRfe2n+jlcZPrwJWVvw/NltpP8ODc/3Algils3qjrI/VzKRW8NZvScBri0vq6ykCYQddUvW/8886STHbhJUhpGqRFLNYXYZqEf1E9kOU/35Nes1/HE6t4Ztk68vKyk5CJUDMPQLI0PMZSSfLj/WKQE2mMFHYQJkF6rFKrl/7v7y3mrdQWYh0YkVJX5IQ6ksqjlY+Fz9Yh3b0+Icvglx0Kxc+5kWotAMY9GeAQcXe4EHNcuc0Q+lT+V00CQ4T51f8EnYEE+z4lhzsVJUMDKb9CKZ0HmYafXpip2ZvQocEF1PPZhrLBcSWt1FIyheqGZSTJA4eqe1USjWrOEu3hpBRgLjRJWZvJ7ecPBnftXhQse0"
+  "notes": "Стабильная версия: откат неудачного обновления, повторная проверка после исправлений, кнопки действий, редактор реестра, окно «Что нового».",
+  "sig": "KGAaheJTTXxF7MjVXVYoedqaEMNcHUgkl605uMgIVu5jbKrruRk/fOuv9vdGZiseTJH/hgnEh5R9T0JLItlTBNEspzqYAqTb9R9ycR4D/2TR6sif/JaoCg5JzxlP5JSgnO2DG54Ezrzlh8ffm5HYH832b6Z7uJXTDCvsm2OE3TPDqxfrETkCkMRpObChfSuBMYA7Rnb1TBxRFh9S8CxLX8X2D8rZLMRPfBk0kJ99GYUyYRCayRXql3dEsy1r/4URsOXaQ8a1Z/z2Tw30HHHfBt/fDbqvn72MwujRVLIkU2exmI1N3sEvEFEBBpdg7cDZrGFueNKQXcXl64T3vU17/Opsnw83CaxixXAx4esdB5Lr9lq/xUOYXvYQh0U9f2QPkzHCv91tt2j/W6bDTIiKQgPg5gKHos8Icp678WRYX5/viDzcsxf8q1CPzmM2Fvm/GlZG5UNf1P0pBCkaZPeuPBrnLkHShzW9R4raEaXI6WWKaXcsLcstB2YOaUBWfNnL"
 }
