@@ -1,9 +1,9 @@
 {
-  "version": "2.0.7",
-  "exe": "https://raw.githubusercontent.com/rossofrost98-lgtm/syswell/main/release/Syswell.exe?v=2.0.7",
-  "sha256": "ee9f13b3214666c738e37e7aa6a958700ac9934ecdcb9f76090d80e28fcf07b8",
-  "size": 1243648,
+  "version": "2.0.8",
+  "exe": "https://raw.githubusercontent.com/rossofrost98-lgtm/syswell/main/release/Syswell.exe?v=2.0.8",
+  "sha256": "d24080a95070eeebee4d3f590396b65b26d1643f5dd5a36b92f7f9d8ee7b846f",
+  "size": 1400320,
   "url": "https://github.com/rossofrost98-lgtm/syswell",
-  "notes": "Мгновенное переключение между простым режимом и Pro, более быстрый запуск.",
-  "sig": "DugydXBrfZlI1BfTI60mjPz3oOG2cp360XZnGLYbtRZ3Kpnq0Ztf0ZR1HcSlui9xQak4BuXyp7ij1fBTXmyn601nTUlHNhXkP1oUqQqD+h/kr72qWIgOt4klrrWzXirJ8iTJxJ1zDDskL+RQRFXTFo11bbcFeSSPuPzeeWdTpdZbyCpJ4pT7LIaVfkvlbskoofaXCGx+V2fSNFRv8VsaEFVY5HQfC3ET9WEkfIfWqfFHLBsw1Uh63xY5U+8/f36XEX1vXyXmNRNB57R3k1xmF6TVa4luRQY/mIzh2p0eueB4xBhpLP7lBZjPIcCZxjuebn+SVmgRMxUjB8BfBZo76wxobbWXgpvM4/Z29GHLw04V7SY8JMUclrJA9BMYn3PDdDfeTt/EoLwjSfZnTrGJnJlmvluFBAJJgrRLui/j7bqYz2sh2NoAYHB0rDZzhc3xJ5Y57gUtWJ0i/6lYvGaJ3IK6/42ctwpDpfanuPQiv51JovGYjRFqU07yIR6GbJGP"
+  "notes": "Настройки с шестерёнкой, помощь и FAQ, короткое обучение при первом запуске. В Pro: «Переезд» и «Паспорт компьютера». Предупреждения заранее о дисках и месте.",
+  "sig": "X0YuFMDcVZPgCpZxvaVPr1i5F9BYxm50bULz9y3kwMkkqFuOt1gMLvhJosS+pLJooKKOr5l3w8l2k7JUWoD8IjUc5rkRAtb5Z51kVW8VWrtPCcds8O81mUrrRlNMq1kaQWF1xcBknGEkYLYXp+jkV87siZkaB7rYKVOkgESy3dkMhhe/ofTU2NGcpMYa1slgkqwqTlDE1KFk8bMbUVEjkF2qbQ5+dCjWc6ZiKixRVN7HfP5mdXiyvkLQ9ngyx6YjavQgEVWCMAlrFXoX84cl0cRPcduty41b90eX4xnmol2+bs6T1apdKf/NiGBJAZEbn2N0sT5FcXpneGCtJOw6HTdFZhzhJLO0jVm4ksXdgMb0vzSO6QgppHKM5vU9wr0MMz/KCsIeUeE3nKQbl/FyiuULfpSNebN6y9s36IAzfFYGAChhw5a4WApl14OW89ap97jtRk7EmQuQwoWueZ239nyxtgZ/A38+MyZEVPLRyqxN+rvhxDgHx/XAHBNVMWQR"
 }
