@@ -1,9 +1,9 @@
 {
-  "version": "2.0.2",
-  "exe": "https://raw.githubusercontent.com/rossofrost98-lgtm/syswell/main/release/Syswell.exe?v=2.0.2",
-  "sha256": "6da32587b0688e9f6b8049bf051d7c3eefe1e82764d358b7a51315acccf4f521",
-  "size": 1185280,
+  "version": "2.0.4",
+  "exe": "https://raw.githubusercontent.com/rossofrost98-lgtm/syswell/main/release/Syswell.exe?v=2.0.4",
+  "sha256": "47a35f5328bfddc4b39ed61d95d446c8903854cdd0811c38716968bc9d50f461",
+  "size": 1201152,
   "url": "https://github.com/rossofrost98-lgtm/syswell",
-  "notes": "Анимация-паутина во время работы",
-  "sig": "EA82cLNxrQLYvNQeIQ0iVy7Bg5SjHaBAvEAGoiiWAhqMUj9zT75mEFa8sfkhToxUnubSnC1F5pw6eNizQmdpaiEz/NLI7wfjPQPAKC5oT3bNG/k2dy6uRYiT53h6QTVDylo6Js8c8CiR61aIgTzweEUUP1daLh/rLlDLafVPVHXDTLJmx2LuiLx9HCM94vt+Yl8CtkyHUtAPdHogq4bssVPGNG53dVVlnwe0g6h5hbc6rQzsF0lPhI+HB/Rnio96moWAUj1dzXQfPj768tujekHj0xmZ3C7SXW9jb9NLJGNKBtqjgoWlpb5vn0znjRPN/Ds6WVRzYoveQJYpNX9qLTaVLTBByFGJFUkh6qnBZyX1PF+eCrjmQi7LOgciJJ850f1kD0vgLJe2CADcfpsfHf8W3BgmH0pRt7xKofJamR1pZxmujnVRK5JskxlZJCteVHt0mjgeK2JqSgv0cq63Gm5SuDf03gHHcnrnr/mCaMhGF1N18ZAIj3v/wnnRXUGC"
+  "notes": "Журнал в виде паутины, тёмные окна-вопросы, кнопки языка RU/KZ/EN, настройки в боковом меню, исправлены автообновления.",
+  "sig": "SgxYn596j4pRAm73pgbtXgJxy2qfvCGobfRs37RebIKy25G/FK74LASqJYPgyhNpGxm3Lzj+zJoWEo1Gol/jmD/qhdvyuJUlfyRxaEEOvLITQdU16hBWldRCC7bAw9+kGBoR/48SA6efMc/jZj1cuKRfe2n+jlcZPrwJWVvw/NltpP8ODc/3Algils3qjrI/VzKRW8NZvScBri0vq6ykCYQddUvW/8886STHbhJUhpGqRFLNYXYZqEf1E9kOU/35Nes1/HE6t4Ztk68vKyk5CJUDMPQLI0PMZSSfLj/WKQE2mMFHYQJkF6rFKrl/7v7y3mrdQWYh0YkVJX5IQ6ksqjlY+Fz9Yh3b0+Icvglx0Kxc+5kWotAMY9GeAQcXe4EHNcuc0Q+lT+V00CQ4T51f8EnYEE+z4lhzsVJUMDKb9CKZ0HmYafXpip2ZvQocEF1PPZhrLBcSWt1FIyheqGZSTJA4eqe1USjWrOEu3hpBRgLjRJWZvJ7ecPBnftXhQse0"
 }
