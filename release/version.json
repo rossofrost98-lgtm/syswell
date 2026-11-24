@@ -1,9 +1,9 @@
 {
-  "version": "2.0.5",
-  "exe": "https://raw.githubusercontent.com/rossofrost98-lgtm/syswell/main/release/Syswell.exe?v=2.0.5",
-  "sha256": "3837263afcf3d0322081a8139f98e1739a408cbee70df7708c5efc117caf24fa",
-  "size": 1240576,
+  "version": "2.0.7",
+  "exe": "https://raw.githubusercontent.com/rossofrost98-lgtm/syswell/main/release/Syswell.exe?v=2.0.7",
+  "sha256": "ee9f13b3214666c738e37e7aa6a958700ac9934ecdcb9f76090d80e28fcf07b8",
+  "size": 1243648,
   "url": "https://github.com/rossofrost98-lgtm/syswell",
-  "notes": "Стабильная версия: откат неудачного обновления, повторная проверка после исправлений, кнопки действий, редактор реестра, окно «Что нового».",
-  "sig": "KGAaheJTTXxF7MjVXVYoedqaEMNcHUgkl605uMgIVu5jbKrruRk/fOuv9vdGZiseTJH/hgnEh5R9T0JLItlTBNEspzqYAqTb9R9ycR4D/2TR6sif/JaoCg5JzxlP5JSgnO2DG54Ezrzlh8ffm5HYH832b6Z7uJXTDCvsm2OE3TPDqxfrETkCkMRpObChfSuBMYA7Rnb1TBxRFh9S8CxLX8X2D8rZLMRPfBk0kJ99GYUyYRCayRXql3dEsy1r/4URsOXaQ8a1Z/z2Tw30HHHfBt/fDbqvn72MwujRVLIkU2exmI1N3sEvEFEBBpdg7cDZrGFueNKQXcXl64T3vU17/Opsnw83CaxixXAx4esdB5Lr9lq/xUOYXvYQh0U9f2QPkzHCv91tt2j/W6bDTIiKQgPg5gKHos8Icp678WRYX5/viDzcsxf8q1CPzmM2Fvm/GlZG5UNf1P0pBCkaZPeuPBrnLkHShzW9R4raEaXI6WWKaXcsLcstB2YOaUBWfNnL"
+  "notes": "Мгновенное переключение между простым режимом и Pro, более быстрый запуск.",
+  "sig": "DugydXBrfZlI1BfTI60mjPz3oOG2cp360XZnGLYbtRZ3Kpnq0Ztf0ZR1HcSlui9xQak4BuXyp7ij1fBTXmyn601nTUlHNhXkP1oUqQqD+h/kr72qWIgOt4klrrWzXirJ8iTJxJ1zDDskL+RQRFXTFo11bbcFeSSPuPzeeWdTpdZbyCpJ4pT7LIaVfkvlbskoofaXCGx+V2fSNFRv8VsaEFVY5HQfC3ET9WEkfIfWqfFHLBsw1Uh63xY5U+8/f36XEX1vXyXmNRNB57R3k1xmF6TVa4luRQY/mIzh2p0eueB4xBhpLP7lBZjPIcCZxjuebn+SVmgRMxUjB8BfBZo76wxobbWXgpvM4/Z29GHLw04V7SY8JMUclrJA9BMYn3PDdDfeTt/EoLwjSfZnTrGJnJlmvluFBAJJgrRLui/j7bqYz2sh2NoAYHB0rDZzhc3xJ5Y57gUtWJ0i/6lYvGaJ3IK6/42ctwpDpfanuPQiv51JovGYjRFqU07yIR6GbJGP"
 }
