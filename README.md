@@ -3,7 +3,7 @@
 <p align="center"><img src="docs/ru/01_cover.png" alt="Syswell" width="100%"></p>
 
 <h1 align="center">Syswell</h1>
-<p align="center">Помощник, который сам находит и исправляет ошибки Windows 10 / 11.<br>Понятным языком, без командной строки. Бесплатно.</p>
+<p align="center">Помощник, который сам находит и исправляет ошибки Windows 10 / 11.<br>Понятным языком, без командной строки.</p>
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/rossofrost98-lgtm/syswell/main/release/setup_syswell.exe"><img src="https://img.shields.io/badge/Скачать-setup__syswell.exe-3DDC84?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать установщик"></a>
@@ -34,16 +34,17 @@
 ![Живой журнал](docs/ru/07_live.png)
 ![Три языка](docs/ru/08_langs.png)
 ![Два режима](docs/ru/09_modes.png)
+![Обслуживание ПК по сети](docs/ru/10_net1.png)
+![Управление сетью и отчёты](docs/ru/11_net2.png)
 
 ## Остальные функции
 
-![55 действий](docs/ru/10_tools.png)
-![Разделы Pro](docs/ru/11_sections.png)
-![Полезные инструменты](docs/ru/12_extra.png)
-![Сеть](docs/ru/13_network.png)
-![Настройки](docs/ru/14_settings.png)
-![Syswell Recovery](docs/ru/15_recovery.png)
-![Установка](docs/ru/16_install.png)
+![55 действий](docs/ru/12_tools.png)
+![Разделы Pro](docs/ru/13_sections.png)
+![Полезные инструменты](docs/ru/14_extra.png)
+![Настройки](docs/ru/15_settings.png)
+![Syswell Recovery](docs/ru/16_recovery.png)
+![Установка](docs/ru/17_install.png)
 
 ## Обновления
 

@@ -3,7 +3,7 @@
 <p align="center"><img src="docs/en/01_cover.png" alt="Syswell" width="100%"></p>
 
 <h1 align="center">Syswell</h1>
-<p align="center">An assistant that finds and fixes Windows 10 / 11 problems by itself.<br>Plain language, no command line. Free.</p>
+<p align="center">An assistant that finds and fixes Windows 10 / 11 problems by itself.<br>Plain language, no command line.</p>
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/rossofrost98-lgtm/syswell/main/release/setup_syswell.exe"><img src="https://img.shields.io/badge/Download-setup__syswell.exe-3DDC84?style=for-the-badge&logo=windows&logoColor=white" alt="Download installer"></a>
@@ -34,16 +34,17 @@
 ![Live log](docs/en/07_live.png)
 ![Three languages](docs/en/08_langs.png)
 ![Two modes](docs/en/09_modes.png)
+![Network maintenance](docs/en/10_net1.png)
+![Network control and reports](docs/en/11_net2.png)
 
 ## Everything else
 
-![55 actions](docs/en/10_tools.png)
-![Pro sections](docs/en/11_sections.png)
-![Handy tools](docs/en/12_extra.png)
-![Network](docs/en/13_network.png)
-![Settings](docs/en/14_settings.png)
-![Syswell Recovery](docs/en/15_recovery.png)
-![Get started](docs/en/16_install.png)
+![55 actions](docs/en/12_tools.png)
+![Pro sections](docs/en/13_sections.png)
+![Handy tools](docs/en/14_extra.png)
+![Settings](docs/en/15_settings.png)
+![Syswell Recovery](docs/en/16_recovery.png)
+![Get started](docs/en/17_install.png)
 
 The screenshots show the Russian interface; switch to English with the EN button at the bottom of the menu.
 
