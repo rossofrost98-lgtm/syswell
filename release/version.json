@@ -1,9 +1,9 @@
 {
-  "version": "2.0.8",
-  "exe": "https://raw.githubusercontent.com/rossofrost98-lgtm/syswell/main/release/Syswell.exe?v=2.0.8",
-  "sha256": "d24080a95070eeebee4d3f590396b65b26d1643f5dd5a36b92f7f9d8ee7b846f",
-  "size": 1400320,
+  "version": "2.1.0",
+  "exe": "https://raw.githubusercontent.com/rossofrost98-lgtm/syswell/main/release/Syswell.exe?v=2.1.0",
+  "sha256": "fd479fbf9db252c9f1387fd8509da3add121f20ef18f47d2e1d61cff9e894a40",
+  "size": 1421312,
   "url": "https://github.com/rossofrost98-lgtm/syswell",
-  "notes": "Настройки с шестерёнкой, помощь и FAQ, короткое обучение при первом запуске. В Pro: «Переезд» и «Паспорт компьютера». Предупреждения заранее о дисках и месте.",
-  "sig": "X0YuFMDcVZPgCpZxvaVPr1i5F9BYxm50bULz9y3kwMkkqFuOt1gMLvhJosS+pLJooKKOr5l3w8l2k7JUWoD8IjUc5rkRAtb5Z51kVW8VWrtPCcds8O81mUrrRlNMq1kaQWF1xcBknGEkYLYXp+jkV87siZkaB7rYKVOkgESy3dkMhhe/ofTU2NGcpMYa1slgkqwqTlDE1KFk8bMbUVEjkF2qbQ5+dCjWc6ZiKixRVN7HfP5mdXiyvkLQ9ngyx6YjavQgEVWCMAlrFXoX84cl0cRPcduty41b90eX4xnmol2+bs6T1apdKf/NiGBJAZEbn2N0sT5FcXpneGCtJOw6HTdFZhzhJLO0jVm4ksXdgMb0vzSO6QgppHKM5vU9wr0MMz/KCsIeUeE3nKQbl/FyiuULfpSNebN6y9s36IAzfFYGAChhw5a4WApl14OW89ap97jtRk7EmQuQwoWueZ239nyxtgZ/A38+MyZEVPLRyqxN+rvhxDgHx/XAHBNVMWQR"
+  "notes": "Казахский и английский снова работают и переключаются сразу. Мастера «Что-то не работает» без лишних вопросов. Чёрный фон и «паутина» во всех окнах. Исправлены кракозябры в журнале.",
+  "sig": "lyamOmm6k6FPXBKamJlaUvaNiToOpqWh2KFn8btodhSxrh1aZ//gw+c01ICyMMwegMf8kRg7NqTS9YNz1yepDKt8D/wCvSR5ufNknzeLZRqIA46ag/bWYVDnBGqKoq49ynCKI5ILbEzq/hZuf9NGCC9CZVcN0NOKu1KsX9zQ9fjKJMbRFwa7HGZ4q5cuvGnEyp+jF5plRLhdYaGq3ZRKzWB5FrbDXIYHpU11LlUNV+deAbb3z4iPCtr6GvBX47GGZSPTAWAUfnbWxLufL+B7PzJHNkqw5REMMBgO8Z0iQ1FIK4P5zZTCpvY4tvlFl69JGmrTIRE2nw/Qe78Hk5YJgDM4cqArvIvHoAJJzUBUGCb36QITWQEGYk0w5RmXZdGQfnklCk8X/dh4vBnwzbyE660LAnHCYghXxhY75rxwx+Y6MZjsK1mrV/9jIip/B1nnukvNg+zx8rtDDDNwMeyW+mMT2RkYc7P/I/Z8NV3YseBYXovuG3sXQVuaqeeGideb"
 }
