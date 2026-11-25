@@ -1,9 +1,9 @@
 {
   "version": "2.1.1",
-  "exe": "https://raw.githubusercontent.com/rossofrost98-lgtm/syswell/main/release/Syswell.exe?v=2.1.1",
-  "sha256": "41e0047bd073e174a189b11d62504c5a283b0f046bcc7f957182326b190840ca",
-  "size": 1436672,
+  "exe": "https://raw.githubusercontent.com/rossofrost98-lgtm/syswell/main/release/Syswell.exe?v=2.1.1c",
+  "sha256": "b4ce54049a96c6da9d14418c3a35891396a895edb64c558c737cb6b49fdc3846",
+  "size": 1438720,
   "url": "https://github.com/rossofrost98-lgtm/syswell",
-  "notes": "Исправлен запуск: программа больше не блокируется антивирусом (ложное срабатывание Защитника Windows).",
-  "sig": "hLtXuduI7+slCqjPKtaIMPsxtmWT1msAHY1pJsQ4QOU0L7PQ3pKLrQqtHEENahJ6j2XBuwgFClRgX1mu2zJUEUFiIWiGBgpmknDVwt37QNJgFig+Ivd6nYJy0AzDYDVSTjYcIqLbLF3/IcUIG8wq9drcmA6swygAJadtJ8FYkSLa6YpJbP1vV0b18Us2Ciu+tVM4O7tawuhRdgegWTBvOq4gv2hIC/Zn9GYTXOnnmy7l6gLC7zSYqQiXYBvfuOMKev9MZpOs+Ks431fuiRM+37GYkWEMJa5fV4bz1Txm+YDgQdqhnfI9pIoK4SfrVXw3m0x2LJrmRW+nKqEeWal1Liy++zCPZ/KX1+zBQkoWk5mFJ9p/SygMS8dBUeLv0Prx8KXGZPjYZWY+Gbh3F14zO2LDfP72Kx/8XjLT1dKm7GKxfpVuBAB//R9GtKnKz0WBYg4+mPZ53YojrsnE7Pwi9B3L1IBaGiVqWlSNQnXzYsKT852guKr3Ys+pW85VlAkX"
+  "notes": "Исправление блокировки антивирусом: встроенный сетевой модуль вынесен из скрипта.",
+  "sig": "NmFj1+WGpWFq643YEUuco6wvN0M7vUZw9u9Xq/8NrQH9y1FXpTz4j53Tn8idDKKkFtqg0+QAx/0XoLTuJULB0IAl0gFg1MOitiDEcdWdPZX1kiyHSYf/Oy8rlioO8JF8VX9Cg2+JIrJu9WTYrwGykbFOa6Bw1Uj4sRbSJ8kLsvenpxxoJCyvQW4yneULM02Z1kJz4mpo7yKMA7Dxf3F+HxBZpXpze+wm/7BGi10POmPGshhJ7Jemyz66ra6VrD/+QnxtKzOeK080GkOVqe5wfuz1k1q6Oiw1deIRS6NlTnIdqCudZZXfEO3JhLcDUo8hCjvl9P7YmnUW1PlVl80DGRUCUTx+MJgbAMYrDsiQQmaORoIbfXDU1OSPTrY/hXe6ywXxEYirEvCxCTh96Fz/Nja02By7YYU13w4p6Rfb3lcoCwJhFhuYLv5fjIG8UA3pu7QdUlBfwN/1XSEk1F+5NYtqlgpLGCXmqBgU1PoQy1eRuC7k7fbaO+5ZW3yDTrqe"
 }
