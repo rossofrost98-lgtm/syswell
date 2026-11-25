@@ -1,9 +1,9 @@
 {
-  "version": "2.1.0",
-  "exe": "https://raw.githubusercontent.com/rossofrost98-lgtm/syswell/main/release/Syswell.exe?v=2.1.0",
-  "sha256": "fd479fbf9db252c9f1387fd8509da3add121f20ef18f47d2e1d61cff9e894a40",
-  "size": 1421312,
+  "version": "2.1.1",
+  "exe": "https://raw.githubusercontent.com/rossofrost98-lgtm/syswell/main/release/Syswell.exe?v=2.1.1",
+  "sha256": "93a9790b78d8019fce79c4d8ae490a76d1f366c055128c78b322d9ac1dfe60d1",
+  "size": 1431040,
   "url": "https://github.com/rossofrost98-lgtm/syswell",
-  "notes": "Казахский и английский снова работают и переключаются сразу. Мастера «Что-то не работает» без лишних вопросов. Чёрный фон и «паутина» во всех окнах. Исправлены кракозябры в журнале.",
-  "sig": "lyamOmm6k6FPXBKamJlaUvaNiToOpqWh2KFn8btodhSxrh1aZ//gw+c01ICyMMwegMf8kRg7NqTS9YNz1yepDKt8D/wCvSR5ufNknzeLZRqIA46ag/bWYVDnBGqKoq49ynCKI5ILbEzq/hZuf9NGCC9CZVcN0NOKu1KsX9zQ9fjKJMbRFwa7HGZ4q5cuvGnEyp+jF5plRLhdYaGq3ZRKzWB5FrbDXIYHpU11LlUNV+deAbb3z4iPCtr6GvBX47GGZSPTAWAUfnbWxLufL+B7PzJHNkqw5REMMBgO8Z0iQ1FIK4P5zZTCpvY4tvlFl69JGmrTIRE2nw/Qe78Hk5YJgDM4cqArvIvHoAJJzUBUGCb36QITWQEGYk0w5RmXZdGQfnklCk8X/dh4vBnwzbyE660LAnHCYghXxhY75rxwx+Y6MZjsK1mrV/9jIip/B1nnukvNg+zx8rtDDDNwMeyW+mMT2RkYc7P/I/Z8NV3YseBYXovuG3sXQVuaqeeGideb"
+  "notes": "«Что нового» показывает все изменения с вашей прошлой версии, а в настройках - историю всех версий.",
+  "sig": "INRQT66GiQwtJnx4Akwa9e7T84YYA5lhF8hd2KS2fQf49jYAQhpJrHHiyfddLt9v4emmSaqQ6s5T23pyZaTuBbtEMMkD2ZuB26vsJ3TyM33rt10RdoZ37uDijcTENVlRIrwv8x/oB++ThTPr04wcCS501H5+Ykx5qnZNUBXOELy7WaDrOkmX4w99FaplSVaWi/TWY4oc9ixWqXsm5VrMJKLxwMWlbvksemD2v+Ukot7YMXvlF90Jzqt3CeXIIzKLn4zI1KGnr1ippd4cbkEdoZqxXYIj6baVNX9RtKn0QrPwAiqFr1YGGJMMeje5I/k26bNZbObEDkDrnQAR7OZjfJ6L1RSAxZKQAOioIG087p/iHGG2cbLerVuliKV8i6R9lDnoVMQunbHQhAWpvGslEdhr2AkPHQMNJ4gBjEo0u6VfFqoG26rrLhU4J6i7GX6IZ9hITsoAdLOEqSGGQCpZFqRGG7qAhLnmf2RMlG+Vwa5p3qHkS9FFrqEKqyTqzpqs"
 }

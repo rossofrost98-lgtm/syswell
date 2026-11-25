@@ -10,7 +10,7 @@
   <a href="https://raw.githubusercontent.com/rossofrost98-lgtm/syswell/main/release/Syswell.exe"><img src="https://img.shields.io/badge/Без_установки-Syswell.exe-1E3328?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Syswell.exe"></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/версия-2.1.0-3DDC84" alt="версия 2.1.0">
+  <img src="https://img.shields.io/badge/версия-2.1.1-3DDC84" alt="версия 2.1.0">
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D4" alt="Windows 10 | 11">
   <img src="https://img.shields.io/badge/языки-RU%20%7C%20KZ%20%7C%20EN-555" alt="RU KZ EN">
 </p>
