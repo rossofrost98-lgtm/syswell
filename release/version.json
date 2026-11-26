@@ -1,9 +1,9 @@
 {
-  "version": "2.1.1",
-  "exe": "https://raw.githubusercontent.com/rossofrost98-lgtm/syswell/main/release/Syswell.exe?v=2.1.1c",
-  "sha256": "b4ce54049a96c6da9d14418c3a35891396a895edb64c558c737cb6b49fdc3846",
-  "size": 1438720,
-  "url": "https://github.com/rossofrost98-lgtm/syswell",
-  "notes": "Исправление блокировки антивирусом: встроенный сетевой модуль вынесен из скрипта.",
-  "sig": "NmFj1+WGpWFq643YEUuco6wvN0M7vUZw9u9Xq/8NrQH9y1FXpTz4j53Tn8idDKKkFtqg0+QAx/0XoLTuJULB0IAl0gFg1MOitiDEcdWdPZX1kiyHSYf/Oy8rlioO8JF8VX9Cg2+JIrJu9WTYrwGykbFOa6Bw1Uj4sRbSJ8kLsvenpxxoJCyvQW4yneULM02Z1kJz4mpo7yKMA7Dxf3F+HxBZpXpze+wm/7BGi10POmPGshhJ7Jemyz66ra6VrD/+QnxtKzOeK080GkOVqe5wfuz1k1q6Oiw1deIRS6NlTnIdqCudZZXfEO3JhLcDUo8hCjvl9P7YmnUW1PlVl80DGRUCUTx+MJgbAMYrDsiQQmaORoIbfXDU1OSPTrY/hXe6ywXxEYirEvCxCTh96Fz/Nja02By7YYU13w4p6Rfb3lcoCwJhFhuYLv5fjIG8UA3pu7QdUlBfwN/1XSEk1F+5NYtqlgpLGCXmqBgU1PoQy1eRuC7k7fbaO+5ZW3yDTrqe"
+  "version": "2.1.2",
+  "exe": "https://raw.githubusercontent.com/rossofrost98-lgtm/syswell/main/release/Syswell.exe?v=2.1.2",
+  "sha256": "aa756f2e342a0d5cc5f16634b42b33f4a5b6600d75d084c5511ac65884b02093",
+  "size": 1175040,
+  "url": "https://raw.githubusercontent.com/rossofrost98-lgtm/syswell/main/release/Syswell.exe?v=2.1.2",
+  "notes": "Исправлены кракозябры в диагностике и обслуживании; процент выполнения при долгих операциях; Чистый реестр с откатом; группировка плиток (Папки инструментов)",
+  "sig": "LwzASCx+bVy1RGlstGTYZpR9xJHFYs6i65dtbb+0NVDyp+Ls48xqY+sNcLzBXz3mnbsRmpTPsaXIBc+hqrF2+wvZRt0+zprNUP0zP0oTDDvLuP/m8r5xSHZyGkel1D/6iIj0I+BDhmD/WGSthCuflgRqiVwNg9XQxwhmBoZPc7HAlxqwglfns5Ef3GYvSKLBRAGo896TlqOyH9JZ1h13scvxfBLrqFoO8vBn4K38ZigfkWJi0Vcs/QKWTEUzQYhlXRWvHCUbGnUFvNR1P8prJG3nMtnwweCJBVN8pvPxE0yIiBCa3OFn9rk+fxJCNuoJ0zARvsG2tLJgGEof22FWSySb2VoOLnA0xmjyhDcHlJVC9RCMEZ/JzCZcXwHC0GZ7IfEGUoMI5hLVghxFIIiOiCgVdbTMtk5hJD7Uh08ZD/KoJlstpAbR3ZhM0xooNYdjvlo4tuQrhyy5SAyvBhnFgu8OUJnL5e+27lI/lFp0WXEdnWEtpjlchMhquvHhvbah"
 }
